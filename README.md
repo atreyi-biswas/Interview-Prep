@@ -173,6 +173,31 @@ Includes:
 
 # 📂 Repository Structure
 
+| S.No. | Company Name | Link to Folders |
+|------:|--------------|-----------------|
+| 01 | [Google](##-google) | [LINK]() |
+| 02 | [Amazon](##-amazon) | [LINK]() |
+| 03 | [Meta](##-meta) | [LINK]() |
+| 04 | [Apple](##-apple) | [LINK]() |
+| 05 | [Netflix](##-netflix) | [LINK]() |
+| 06 | [Microsoft](##-microsoft) | [LINK]() |
+| 07 | [TCS](##-tcs) | [LINK]() |
+| 08 | [Infosys](##-infosys) | [LINK]() |
+| 09 | [Wipro](##-wipro) | [LINK]() |
+| 10 | [HCL Tech](##-hcltech) | [LINK]() |
+| 11 | [Tech Mahindra](##-tech-mahindra) | [LINK]() |
+| 12 | [Capgemini](##-capgemini) | [LINK]() |
+| 13 | [Accenture](##-accenture) | [LINK]() |
+| 14 | [ITC](##-itc) | [LINK]() |
+| 15 | [Siemens](##-siemens) | [LINK]() |
+| 16 | [Honeywell](##-honeywell) | [LINK]() |
+| 17 | [LTM](##-larsen-&-toubro-(l&t)-mindtree) | [LINK]() |
+| 18 | [Uber](##-uber) | [LINK]() |
+| 19 | [Adobe](##-adobe) | [LINK]() |
+| 20 | [Atlassian](##-atlassian) | [LINK]() |
+| 21 | [Salesforce](##-salesforce) | [LINK]() |
+
+
 ## 1. Google
 
 Folder link: [LINK]()
@@ -614,6 +639,121 @@ Folder link: [LINK]()
 | 18 | Search Insert Position | Easy |
 | 19 | Valid Parentheses | Easy |
 | 20 | Spiral Matrix Traversal | Medium |
+---
+
+# 18. Uber
+
+Folder Link: [LINK]()
+
+| # | Coding Question | Difficulty |
+|---|---|---|
+| 1 | Two Sum | Easy |
+| 2 | Merge Intervals | Medium |
+| 3 | Meeting Rooms II | Medium |
+| 4 | Sliding Window Maximum | Hard |
+| 5 | K Closest Points to Origin | Medium |
+| 6 | Top K Frequent Elements | Medium |
+| 7 | Course Schedule | Medium |
+| 8 | Clone Graph | Medium |
+| 9 | Network Delay Time | Medium |
+| 10 | Dijkstra Algorithm | Hard |
+| 11 | Serialize and Deserialize Binary Tree | Hard |
+| 12 | Lowest Common Ancestor | Medium |
+| 13 | Binary Tree Level Order Traversal | Medium |
+| 14 | Design Twitter | Medium |
+| 15 | Design Hit Counter | Medium |
+| 16 | LRU Cache | Medium |
+| 17 | Word Ladder | Hard |
+| 18 | Trapping Rain Water | Hard |
+| 19 | Product of Array Except Self | Medium |
+| 20 | Longest Substring Without Repeating Characters | Medium |
+
+---
+
+# 19. Adobe
+
+Folder Link: [LINK]()
+
+| # | Coding Question | Difficulty |
+|---|---|---|
+| 1 | Kadane’s Algorithm | Medium |
+| 2 | Majority Element | Easy |
+| 3 | Maximum Product Subarray | Medium |
+| 4 | Next Greater Element | Medium |
+| 5 | Valid Parentheses | Easy |
+| 6 | Diameter of Binary Tree | Easy |
+| 7 | BFS Traversal | Medium |
+| 8 | DFS Traversal | Medium |
+| 9 | 0/1 Knapsack | Medium |
+| 10 | Longest Common Subsequence | Medium |
+| 11 | Coin Change | Medium |
+| 12 | Reverse Linked List | Easy |
+| 13 | Merge Intervals | Medium |
+| 14 | Top K Frequent Elements | Medium |
+| 15 | Kth Largest Element in an Array | Medium |
+| 16 | Binary Search | Easy |
+| 17 | Search in Rotated Sorted Array | Medium |
+| 18 | Longest Increasing Subsequence | Medium |
+| 19 | Sliding Window Maximum | Hard |
+| 20 | LRU Cache | Medium |
+
+---
+
+# 20. Atlassian
+
+Folder Link: [LINK]()
+
+| # | Coding Question | Difficulty |
+|---|---|---|
+| 1 | Longest Common Prefix | Easy |
+| 2 | Rotate Array | Medium |
+| 3 | Merge Intervals | Medium |
+| 4 | Course Schedule | Medium |
+| 5 | Clone Graph | Medium |
+| 6 | Zigzag Level Order Traversal | Medium |
+| 7 | Word Break | Medium |
+| 8 | Valid Parentheses | Easy |
+| 9 | LRU Cache | Medium |
+| 10 | Top K Frequent Elements | Medium |
+| 11 | Product of Array Except Self | Medium |
+| 12 | Binary Tree Right Side View | Medium |
+| 13 | Search in Rotated Sorted Array | Medium |
+| 14 | Meeting Rooms II | Medium |
+| 15 | Coin Change | Medium |
+| 16 | Longest Increasing Subsequence | Medium |
+| 17 | Design Twitter | Medium |
+| 18 | Number of Islands | Medium |
+| 19 | Sliding Window Maximum | Hard |
+| 20 | Serialize and Deserialize Binary Tree | Hard |
+
+---
+
+# 21. Salesforce
+
+Folder Link: [LINK]()
+
+| # | Coding Question | Difficulty |
+|---|---|---|
+| 1 | Two Sum | Easy |
+| 2 | Merge Two Sorted Lists | Easy |
+| 3 | Reverse Linked List | Easy |
+| 4 | Valid Parentheses | Easy |
+| 5 | Binary Tree Traversal | Medium |
+| 6 | Lowest Common Ancestor | Medium |
+| 7 | Number of Islands | Medium |
+| 8 | Course Schedule | Medium |
+| 9 | Merge Intervals | Medium |
+| 10 | Product of Array Except Self | Medium |
+| 11 | Top K Frequent Elements | Medium |
+| 12 | Clone Graph | Medium |
+| 13 | Coin Change | Medium |
+| 14 | House Robber | Medium |
+| 15 | Word Break | Medium |
+| 16 | Longest Increasing Subsequence | Medium |
+| 17 | Kth Largest Element in an Array | Medium |
+| 18 | Sliding Window Maximum | Hard |
+| 19 | LRU Cache | Medium |
+| 20 | Serialize and Deserialize Binary Tree | Hard |
 ---
 
 # Note
