@@ -386,4 +386,4 @@ Folder Link: [LINK]()
 
 # Note
 
-I will keep updating this repository with more coding questions, interview experiences, notes, and preparation resources.
+I will keep updating this repository with more coding questions, notes, and preparation resources.
