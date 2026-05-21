@@ -383,6 +383,402 @@ Folder Link: [LINK]()
 
 ---
 
+# Uber
+
+Folder Link: [LINK](LINK)
+
+| # | Coding Question | Difficulty |
+|---|---|---|
+| 1 | Two Sum | Easy |
+| 2 | Merge Intervals | Medium |
+| 3 | Meeting Rooms II | Medium |
+| 4 | Sliding Window Maximum | Hard |
+| 5 | K Closest Points to Origin | Medium |
+| 6 | Top K Frequent Elements | Medium |
+| 7 | Course Schedule | Medium |
+| 8 | Clone Graph | Medium |
+| 9 | Network Delay Time | Medium |
+| 10 | Dijkstra Algorithm | Hard |
+| 11 | Serialize and Deserialize Binary Tree | Hard |
+| 12 | Lowest Common Ancestor | Medium |
+| 13 | Binary Tree Level Order Traversal | Medium |
+| 14 | Design Twitter | Medium |
+| 15 | Design Hit Counter | Medium |
+| 16 | LRU Cache | Medium |
+| 17 | Word Ladder | Hard |
+| 18 | Trapping Rain Water | Hard |
+| 19 | Product of Array Except Self | Medium |
+| 20 | Longest Substring Without Repeating Characters | Medium |
+
+---
+
+# Adobe
+
+Folder Link: [LINK](LINK)
+
+| # | Coding Question | Difficulty |
+|---|---|---|
+| 1 | Kadane’s Algorithm | Medium |
+| 2 | Majority Element | Easy |
+| 3 | Maximum Product Subarray | Medium |
+| 4 | Next Greater Element | Medium |
+| 5 | Valid Parentheses | Easy |
+| 6 | Diameter of Binary Tree | Easy |
+| 7 | BFS Traversal | Medium |
+| 8 | DFS Traversal | Medium |
+| 9 | 0/1 Knapsack | Medium |
+| 10 | Longest Common Subsequence | Medium |
+| 11 | Coin Change | Medium |
+| 12 | Reverse Linked List | Easy |
+| 13 | Merge Intervals | Medium |
+| 14 | Top K Frequent Elements | Medium |
+| 15 | Kth Largest Element in an Array | Medium |
+| 16 | Binary Search | Easy |
+| 17 | Search in Rotated Sorted Array | Medium |
+| 18 | Longest Increasing Subsequence | Medium |
+| 19 | Sliding Window Maximum | Hard |
+| 20 | LRU Cache | Medium |
+
+---
+
+# Atlassian
+
+Folder Link: [LINK](LINK)
+
+| # | Coding Question | Difficulty |
+|---|---|---|
+| 1 | Longest Common Prefix | Easy |
+| 2 | Rotate Array | Medium |
+| 3 | Merge Intervals | Medium |
+| 4 | Course Schedule | Medium |
+| 5 | Clone Graph | Medium |
+| 6 | Zigzag Level Order Traversal | Medium |
+| 7 | Word Break | Medium |
+| 8 | Valid Parentheses | Easy |
+| 9 | LRU Cache | Medium |
+| 10 | Top K Frequent Elements | Medium |
+| 11 | Product of Array Except Self | Medium |
+| 12 | Binary Tree Right Side View | Medium |
+| 13 | Search in Rotated Sorted Array | Medium |
+| 14 | Meeting Rooms II | Medium |
+| 15 | Coin Change | Medium |
+| 16 | Longest Increasing Subsequence | Medium |
+| 17 | Design Twitter | Medium |
+| 18 | Number of Islands | Medium |
+| 19 | Sliding Window Maximum | Hard |
+| 20 | Serialize and Deserialize Binary Tree | Hard |
+
+---
+
+# Salesforce
+
+Folder Link: [LINK](LINK)
+
+| # | Coding Question | Difficulty |
+|---|---|---|
+| 1 | Two Sum | Easy |
+| 2 | Merge Two Sorted Lists | Easy |
+| 3 | Reverse Linked List | Easy |
+| 4 | Valid Parentheses | Easy |
+| 5 | Binary Tree Traversal | Medium |
+| 6 | Lowest Common Ancestor | Medium |
+| 7 | Number of Islands | Medium |
+| 8 | Course Schedule | Medium |
+| 9 | Merge Intervals | Medium |
+| 10 | Product of Array Except Self | Medium |
+| 11 | Top K Frequent Elements | Medium |
+| 12 | Clone Graph | Medium |
+| 13 | Coin Change | Medium |
+| 14 | House Robber | Medium |
+| 15 | Word Break | Medium |
+| 16 | Longest Increasing Subsequence | Medium |
+| 17 | Kth Largest Element in an Array | Medium |
+| 18 | Sliding Window Maximum | Hard |
+| 19 | LRU Cache | Medium |
+| 20 | Serialize and Deserialize Binary Tree | Hard |
+
+
+---
+
+# Siemens
+
+Folder Link: [LINK](LINK)
+
+| # | Coding Question | Difficulty |
+|---|---|---|
+| 1 | Reverse a String | Easy |
+| 2 | Palindrome Check | Easy |
+| 3 | Fibonacci Series | Easy |
+| 4 | Prime Number Check | Easy |
+| 5 | Binary Search | Easy |
+| 6 | Merge Two Sorted Arrays | Easy |
+| 7 | Two Sum | Easy |
+| 8 | Valid Parentheses | Easy |
+| 9 | Rotate Array | Medium |
+| 10 | Maximum Subarray | Medium |
+| 11 | Linked List Reversal | Easy |
+| 12 | Detect Cycle in Linked List | Medium |
+| 13 | Queue Using Stack | Medium |
+| 14 | Stack Using Queue | Medium |
+| 15 | Binary Tree Traversal | Medium |
+| 16 | Lowest Common Ancestor | Medium |
+| 17 | Matrix Rotation | Medium |
+| 18 | Spiral Matrix | Medium |
+| 19 | Kadane’s Algorithm | Medium |
+| 20 | Search in Rotated Sorted Array | Medium |
+
+---
+
+# Honeywell
+
+Folder Link: [LINK](LINK)
+
+| # | Coding Question | Difficulty |
+|---|---|---|
+| 1 | Two Sum | Easy |
+| 2 | Reverse Integer | Easy |
+| 3 | Palindrome Number | Easy |
+| 4 | Longest Common Prefix | Easy |
+| 5 | Merge Intervals | Medium |
+| 6 | Top K Frequent Elements | Medium |
+| 7 | Product of Array Except Self | Medium |
+| 8 | Binary Tree Level Order Traversal | Medium |
+| 9 | Valid Parentheses | Easy |
+| 10 | Detect Loop in Linked List | Medium |
+| 11 | Kth Largest Element in Array | Medium |
+| 12 | Queue Implementation | Medium |
+| 13 | Stack Implementation | Medium |
+| 14 | Coin Change | Medium |
+| 15 | Longest Increasing Subsequence | Medium |
+| 16 | Matrix Multiplication | Medium |
+| 17 | Binary Search Tree Validation | Medium |
+| 18 | Clone Graph | Medium |
+| 19 | Sliding Window Maximum | Hard |
+| 20 | LRU Cache | Medium |
+
+---
+
+# Larsen & Toubro (L&T)
+
+Folder Link: [LINK](LINK)
+
+| # | Coding Question | Difficulty |
+|---|---|---|
+| 1 | Prime Number | Easy |
+| 2 | Armstrong Number | Easy |
+| 3 | Fibonacci Series | Easy |
+| 4 | Reverse String | Easy |
+| 5 | Binary Search | Easy |
+| 6 | Bubble Sort | Easy |
+| 7 | Selection Sort | Easy |
+| 8 | Matrix Multiplication | Medium |
+| 9 | Array Rotation | Medium |
+| 10 | Merge Sorted Arrays | Easy |
+| 11 | Stack Operations | Easy |
+| 12 | Queue Operations | Easy |
+| 13 | Linked List Traversal | Easy |
+| 14 | Reverse Linked List | Easy |
+| 15 | Binary Tree Traversal | Medium |
+| 16 | Maximum Subarray | Medium |
+| 17 | Kadane’s Algorithm | Medium |
+| 18 | Search Insert Position | Easy |
+| 19 | Valid Parentheses | Easy |
+| 20 | Spiral Matrix Traversal | Medium |
+
+---
+
+# TCS
+
+Folder Link: [LINK](LINK)
+
+| # | Coding Question | Difficulty |
+|---|---|---|
+| 1 | Reverse a String | Easy |
+| 2 | Palindrome Number | Easy |
+| 3 | Fibonacci Series | Easy |
+| 4 | Prime Number Check | Easy |
+| 5 | Factorial of a Number | Easy |
+| 6 | Armstrong Number | Easy |
+| 7 | Bubble Sort | Easy |
+| 8 | Binary Search | Easy |
+| 9 | Find Largest Element in Array | Easy |
+| 10 | Remove Duplicates from Array | Easy |
+| 11 | Count Vowels in String | Easy |
+| 12 | Matrix Multiplication | Medium |
+| 13 | Merge Two Sorted Arrays | Easy |
+| 14 | Balanced Parentheses | Medium |
+| 15 | Linked List Traversal | Easy |
+
+---
+
+# Infosys
+
+Folder Link: [LINK](LINK)
+
+| # | Coding Question | Difficulty |
+|---|---|---|
+| 1 | Anagram Check | Easy |
+| 2 | Two Sum | Easy |
+| 3 | Kadane’s Algorithm | Medium |
+| 4 | Rotate Array | Medium |
+| 5 | Reverse Linked List | Easy |
+| 6 | Binary Tree Traversal | Medium |
+| 7 | Valid Parentheses | Easy |
+| 8 | Longest Common Prefix | Easy |
+| 9 | Merge Intervals | Medium |
+| 10 | Count Frequency of Characters | Easy |
+| 11 | Queue Using Stack | Medium |
+| 12 | Stack Using Queue | Medium |
+| 13 | Fibonacci Using DP | Medium |
+| 14 | Matrix Rotation | Medium |
+| 15 | Detect Cycle in Linked List | Medium |
+
+---
+
+# Wipro
+
+Folder Link: [LINK](LINK)
+
+| # | Coding Question | Difficulty |
+|---|---|---|
+| 1 | Prime Number | Easy |
+| 2 | Palindrome String | Easy |
+| 3 | String Reversal | Easy |
+| 4 | Binary to Decimal Conversion | Easy |
+| 5 | Decimal to Binary Conversion | Easy |
+| 6 | Armstrong Number | Easy |
+| 7 | Array Rotation | Medium |
+| 8 | Linear Search | Easy |
+| 9 | Binary Search | Easy |
+| 10 | Remove Duplicate Elements | Easy |
+| 11 | Linked List Insertion | Medium |
+| 12 | Queue Implementation | Medium |
+| 13 | Stack Implementation | Medium |
+| 14 | Matrix Addition | Easy |
+| 15 | Frequency Count in Array | Easy |
+
+---
+
+# HCLTech
+
+Folder Link: [LINK](LINK)
+
+| # | Coding Question | Difficulty |
+|---|---|---|
+| 1 | Reverse Integer | Easy |
+| 2 | Check Leap Year | Easy |
+| 3 | Fibonacci Series | Easy |
+| 4 | Prime Factors | Medium |
+| 5 | GCD and LCM | Easy |
+| 6 | Selection Sort | Easy |
+| 7 | Insertion Sort | Easy |
+| 8 | Reverse Linked List | Easy |
+| 9 | Merge Sorted Arrays | Easy |
+| 10 | Find Missing Number | Medium |
+| 11 | Balanced Brackets | Medium |
+| 12 | Binary Tree Height | Medium |
+| 13 | Queue Operations | Easy |
+| 14 | Stack Operations | Easy |
+| 15 | Pattern Printing | Easy |
+
+---
+
+# Tech Mahindra
+
+Folder Link: [LINK](LINK)
+
+| # | Coding Question | Difficulty |
+|---|---|---|
+| 1 | Palindrome Check | Easy |
+| 2 | Armstrong Number | Easy |
+| 3 | Prime Number | Easy |
+| 4 | String Compression | Medium |
+| 5 | Reverse Words in String | Medium |
+| 6 | Matrix Transpose | Medium |
+| 7 | Merge Two Linked Lists | Medium |
+| 8 | Binary Search | Easy |
+| 9 | Quick Sort | Medium |
+| 10 | Circular Queue | Medium |
+| 11 | Stack Using Array | Easy |
+| 12 | Linked List Reversal | Easy |
+| 13 | Remove Duplicate Characters | Easy |
+| 14 | Frequency of Elements | Easy |
+| 15 | Spiral Matrix Traversal | Medium |
+
+---
+
+# Capgemini
+
+Folder Link: [LINK](LINK)
+
+| # | Coding Question | Difficulty |
+|---|---|---|
+| 1 | Two Sum | Easy |
+| 2 | Reverse a String | Easy |
+| 3 | Longest Common Prefix | Easy |
+| 4 | Palindrome Number | Easy |
+| 5 | Valid Parentheses | Easy |
+| 6 | Merge Sorted Arrays | Easy |
+| 7 | Rotate Matrix | Medium |
+| 8 | Detect Loop in Linked List | Medium |
+| 9 | Binary Tree Traversal | Medium |
+| 10 | Queue Using Stacks | Medium |
+| 11 | Stack Using Queues | Medium |
+| 12 | Kadane’s Algorithm | Medium |
+| 13 | Spiral Matrix | Medium |
+| 14 | Subarray Sum Equals K | Medium |
+| 15 | Search in Rotated Sorted Array | Medium |
+
+---
+
+# Accenture
+
+Folder Link: [LINK](LINK)
+
+| # | Coding Question | Difficulty |
+|---|---|---|
+| 1 | Reverse Number | Easy |
+| 2 | Armstrong Number | Easy |
+| 3 | Palindrome String | Easy |
+| 4 | Fibonacci Series | Easy |
+| 5 | Prime Number Check | Easy |
+| 6 | Merge Intervals | Medium |
+| 7 | Two Sum | Easy |
+| 8 | Longest Substring Without Repeating Characters | Medium |
+| 9 | Queue Implementation | Medium |
+| 10 | Stack Implementation | Medium |
+| 11 | Matrix Rotation | Medium |
+| 12 | Binary Tree Traversal | Medium |
+| 13 | Linked List Cycle Detection | Medium |
+| 14 | Search Insert Position | Easy |
+| 15 | Best Time to Buy and Sell Stock | Easy |
+
+---
+
+# ITC
+
+Folder Link: [LINK](LINK)
+
+| # | Coding Question | Difficulty |
+|---|---|---|
+| 1 | Palindrome Check | Easy |
+| 2 | Reverse String | Easy |
+| 3 | Fibonacci Number | Easy |
+| 4 | Prime Number | Easy |
+| 5 | Bubble Sort | Easy |
+| 6 | Binary Search | Easy |
+| 7 | Matrix Multiplication | Medium |
+| 8 | Array Rotation | Medium |
+| 9 | Valid Parentheses | Easy |
+| 10 | Reverse Linked List | Easy |
+| 11 | Merge Two Sorted Lists | Easy |
+| 12 | Maximum Subarray | Medium |
+| 13 | Queue Operations | Easy |
+| 14 | Stack Operations | Easy |
+| 15 | Frequency Count | Easy |
+
+---
+
 # Note
 
 I will keep updating this repository with more coding questions, notes, and preparation resources.
