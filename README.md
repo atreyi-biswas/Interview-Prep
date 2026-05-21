@@ -4,7 +4,6 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/atreyi-biswas/interview-prep?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/atreyi-biswas/interview-prep?style=for-the-badge)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/atreyi-biswas/interview-prep?style=for-the-badge)
 ![Questions Solved](https://img.shields.io/badge/Questions_Solved-2-blue?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/atreyi-biswas/interview-prep?style=for-the-badge)
 
