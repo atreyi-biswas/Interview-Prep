@@ -198,7 +198,7 @@ Includes:
 | 21 | [Salesforce](##-salesforce) | [LINK]() |
 
 
-## 1. Google
+## Google
 
 Folder link: [LINK]()
 | # | Coding Question | Difficulty | 
@@ -236,7 +236,7 @@ Folder link: [LINK]()
 
 ---
 
-## 2. Amazon
+## Amazon
 
 Folder link: [LINK]()
 | # | Coding Question | Difficulty |
@@ -273,7 +273,7 @@ Folder link: [LINK]()
 | 30 | Binary Tree Level Order Traversal | Medium |
 
 
-## 3. Meta
+## Meta
 
 Folder link: [LINK]()
 | # | Coding Question | Difficulty |
@@ -301,7 +301,7 @@ Folder link: [LINK]()
 
 ---
 
-## 4. Apple
+## Apple
 
 Folder link: [LINK]()
 | # | Coding Question | Difficulty |
@@ -324,7 +324,7 @@ Folder link: [LINK]()
 
 ---
 
-## 5. Netflix
+## Netflix
 
 Folder link: [LINK]()
 | # | Coding Question | Difficulty |
@@ -347,7 +347,7 @@ Folder link: [LINK]()
 
 ---
 
-## 6. Microsoft
+## Microsoft
 
 Folder link: [LINK]()
 | # | Coding Question | Difficulty |
@@ -375,7 +375,7 @@ Folder link: [LINK]()
 
 ---
 
-## 7. TCS
+## TCS
 
 Folder link: [LINK]()
 | # | Coding Question | Difficulty |
@@ -398,7 +398,7 @@ Folder link: [LINK]()
 
 ---
 
-## 8. Infosys
+## Infosys
 
 Folder link: [LINK]()
 | # | Coding Question | Difficulty |
@@ -421,7 +421,7 @@ Folder link: [LINK]()
 
 ---
 
-## 9. Wipro
+## Wipro
 
 Folder link: [LINK]()
 | # | Coding Question | Difficulty |
@@ -444,7 +444,7 @@ Folder link: [LINK]()
 
 ---
 
-## 10. HCLTech
+## HCLTech
 
 Folder link: [LINK]()
 | # | Coding Question | Difficulty |
@@ -467,7 +467,7 @@ Folder link: [LINK]()
 
 ---
 
-## 11. Tech Mahindra
+## Tech Mahindra
 
 Folder link: [LINK]()
 | # | Coding Question | Difficulty |
@@ -490,7 +490,7 @@ Folder link: [LINK]()
 
 ---
 
-## 12. Capgemini
+## Capgemini
 
 Folder link: [LINK]()
 | # | Coding Question | Difficulty |
@@ -513,7 +513,7 @@ Folder link: [LINK]()
 
 ---
 
-## 13. Accenture
+## Accenture
 
 Folder link: [LINK]()
 | # | Coding Question | Difficulty |
@@ -536,7 +536,7 @@ Folder link: [LINK]()
 
 ---
 
-## 14. ITC
+## ITC
 
 Folder link: [LINK]()
 | # | Coding Question | Difficulty |
@@ -558,7 +558,7 @@ Folder link: [LINK]()
 | 15 | Frequency Count | Easy |
 
 ---
-## 15. Siemens
+## Siemens
 
 Folder link: [LINK]()
 | # | Coding Question | Difficulty |
@@ -586,7 +586,7 @@ Folder link: [LINK]()
 
 ---
 
-## 16. Honeywell
+## Honeywell
 
 Folder link: [LINK]()
 | # | Coding Question | Difficulty |
@@ -614,7 +614,7 @@ Folder link: [LINK]()
 
 ---
 
-## 17. Larsen & Toubro (L&T) Mindtree
+## Larsen & Toubro (L&T) Mindtree
 
 Folder link: [LINK]()
 | # | Coding Question | Difficulty |
@@ -641,7 +641,7 @@ Folder link: [LINK]()
 | 20 | Spiral Matrix Traversal | Medium |
 ---
 
-# 18. Uber
+## Uber
 
 Folder Link: [LINK]()
 
@@ -670,7 +670,7 @@ Folder Link: [LINK]()
 
 ---
 
-# 19. Adobe
+## Adobe
 
 Folder Link: [LINK]()
 
@@ -699,7 +699,7 @@ Folder Link: [LINK]()
 
 ---
 
-# 20. Atlassian
+## Atlassian
 
 Folder Link: [LINK]()
 
@@ -728,7 +728,7 @@ Folder Link: [LINK]()
 
 ---
 
-# 21. Salesforce
+## Salesforce
 
 Folder Link: [LINK]()
 
