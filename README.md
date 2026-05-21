@@ -173,7 +173,7 @@ Includes:
 
 # 📂 Repository Structure
 
-## 1. Google Careers
+## 1. Google
 
 Folder link: [LINK]()
 | # | Coding Question | Difficulty | 
@@ -248,7 +248,7 @@ Folder link: [LINK]()
 | 30 | Binary Tree Level Order Traversal | Medium |
 
 
-## 3. Meta Interview Coding Questions
+## 3. Meta
 
 Folder link: [LINK]()
 | # | Coding Question | Difficulty |
@@ -276,7 +276,7 @@ Folder link: [LINK]()
 
 ---
 
-## 4. Apple Interview Coding Questions
+## 4. Apple
 
 Folder link: [LINK]()
 | # | Coding Question | Difficulty |
@@ -299,7 +299,7 @@ Folder link: [LINK]()
 
 ---
 
-## 5. Netflix Interview Coding Questions
+## 5. Netflix
 
 Folder link: [LINK]()
 | # | Coding Question | Difficulty |
@@ -322,7 +322,7 @@ Folder link: [LINK]()
 
 ---
 
-## 6. Microsoft Interview Coding Questions
+## 6. Microsoft
 
 Folder link: [LINK]()
 | # | Coding Question | Difficulty |
@@ -350,7 +350,7 @@ Folder link: [LINK]()
 
 ---
 
-## 7. TCS Interview Coding Questions
+## 7. TCS
 
 Folder link: [LINK]()
 | # | Coding Question | Difficulty |
@@ -373,7 +373,7 @@ Folder link: [LINK]()
 
 ---
 
-## 8. Infosys Interview Coding Questions
+## 8. Infosys
 
 Folder link: [LINK]()
 | # | Coding Question | Difficulty |
@@ -396,7 +396,7 @@ Folder link: [LINK]()
 
 ---
 
-## 9. Wipro Interview Coding Questions
+## 9. Wipro
 
 Folder link: [LINK]()
 | # | Coding Question | Difficulty |
@@ -419,7 +419,7 @@ Folder link: [LINK]()
 
 ---
 
-## 10. HCLTech Interview Coding Questions
+## 10. HCLTech
 
 Folder link: [LINK]()
 | # | Coding Question | Difficulty |
@@ -442,7 +442,7 @@ Folder link: [LINK]()
 
 ---
 
-## 11. Tech Mahindra Interview Coding Questions
+## 11. Tech Mahindra
 
 Folder link: [LINK]()
 | # | Coding Question | Difficulty |
@@ -465,7 +465,7 @@ Folder link: [LINK]()
 
 ---
 
-## 12. Capgemini Interview Coding Questions
+## 12. Capgemini
 
 Folder link: [LINK]()
 | # | Coding Question | Difficulty |
@@ -488,7 +488,7 @@ Folder link: [LINK]()
 
 ---
 
-## 13. Accenture Interview Coding Questions
+## 13. Accenture
 
 Folder link: [LINK]()
 | # | Coding Question | Difficulty |
@@ -511,7 +511,7 @@ Folder link: [LINK]()
 
 ---
 
-## 14. ITC Interview Coding Questions
+## 14. ITC
 
 Folder link: [LINK]()
 | # | Coding Question | Difficulty |
@@ -533,5 +533,88 @@ Folder link: [LINK]()
 | 15 | Frequency Count | Easy |
 
 ---
+## 15. Siemens
+
+Folder link: [LINK]()
+| # | Coding Question | Difficulty |
+|---|---|---|
+| 1 | Reverse a String | Easy |
+| 2 | Palindrome Check | Easy |
+| 3 | Fibonacci Series | Easy |
+| 4 | Prime Number Check | Easy |
+| 5 | Binary Search | Easy |
+| 6 | Merge Two Sorted Arrays | Easy |
+| 7 | Two Sum | Easy |
+| 8 | Valid Parentheses | Easy |
+| 9 | Rotate Array | Medium |
+| 10 | Maximum Subarray | Medium |
+| 11 | Linked List Reversal | Easy |
+| 12 | Detect Cycle in Linked List | Medium |
+| 13 | Queue Using Stack | Medium |
+| 14 | Stack Using Queue | Medium |
+| 15 | Binary Tree Traversal | Medium |
+| 16 | Lowest Common Ancestor | Medium |
+| 17 | Matrix Rotation | Medium |
+| 18 | Spiral Matrix | Medium |
+| 19 | Kadane’s Algorithm | Medium |
+| 20 | Search in Rotated Sorted Array | Medium |
+
+---
+
+## 16. Honeywell
+
+Folder link: [LINK]()
+| # | Coding Question | Difficulty |
+|---|---|---|
+| 1 | Two Sum | Easy |
+| 2 | Reverse Integer | Easy |
+| 3 | Palindrome Number | Easy |
+| 4 | Longest Common Prefix | Easy |
+| 5 | Merge Intervals | Medium |
+| 6 | Top K Frequent Elements | Medium |
+| 7 | Product of Array Except Self | Medium |
+| 8 | Binary Tree Level Order Traversal | Medium |
+| 9 | Valid Parentheses | Easy |
+| 10 | Detect Loop in Linked List | Medium |
+| 11 | Kth Largest Element in Array | Medium |
+| 12 | Queue Implementation | Medium |
+| 13 | Stack Implementation | Medium |
+| 14 | Coin Change | Medium |
+| 15 | Longest Increasing Subsequence | Medium |
+| 16 | Matrix Multiplication | Medium |
+| 17 | Binary Search Tree Validation | Medium |
+| 18 | Clone Graph | Medium |
+| 19 | Sliding Window Maximum | Hard |
+| 20 | LRU Cache | Medium |
+
+---
+
+## 17. Larsen & Toubro (L&T) Mindtree
+
+Folder link: [LINK]()
+| # | Coding Question | Difficulty |
+|---|---|---|
+| 1 | Prime Number | Easy |
+| 2 | Armstrong Number | Easy |
+| 3 | Fibonacci Series | Easy |
+| 4 | Reverse String | Easy |
+| 5 | Binary Search | Easy |
+| 6 | Bubble Sort | Easy |
+| 7 | Selection Sort | Easy |
+| 8 | Matrix Multiplication | Medium |
+| 9 | Array Rotation | Medium |
+| 10 | Merge Sorted Arrays | Easy |
+| 11 | Stack Operations | Easy |
+| 12 | Queue Operations | Easy |
+| 13 | Linked List Traversal | Easy |
+| 14 | Reverse Linked List | Easy |
+| 15 | Binary Tree Traversal | Medium |
+| 16 | Maximum Subarray | Medium |
+| 17 | Kadane’s Algorithm | Medium |
+| 18 | Search Insert Position | Easy |
+| 19 | Valid Parentheses | Easy |
+| 20 | Spiral Matrix Traversal | Medium |
+---
+
 # Note
 I will be updating the list!
